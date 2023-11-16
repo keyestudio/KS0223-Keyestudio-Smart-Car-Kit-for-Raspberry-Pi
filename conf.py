@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'KS0223 Keyestudio Smart Car Kit for Raspberry Pi'
+project = 'Raspberry Pi Smart Car'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
